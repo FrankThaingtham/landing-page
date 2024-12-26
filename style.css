@@ -86,3 +86,37 @@ img {
     border: 1px 3882F6;
     border-radius: 10px;
 }
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.img {
+    border: solid #3882F6;
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;  
+}
+
+.header-text {
+    display: flex;
+    justify-content: center;
+
+}
+
+.picture-msg {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 60px;
+    margin-bottom: 120px;
+    
+}
+
+.picture-msg p{
+    font-size: 18px;
+    color: #1F2837;
+    text-align: center;
+}
